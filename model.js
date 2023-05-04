@@ -42,7 +42,7 @@ function createMovie(Movie) {
 function editMovie(id, Movie) {
   const MovieEdit = {
     id,
-    ...contact,
+    ...Movie,
   };
   const record = table.update(MovieEdit);
   return record;
