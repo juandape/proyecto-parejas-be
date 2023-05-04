@@ -3,25 +3,25 @@ const r1 = table.insert({
   name: "Jaws",
   year: "1975",
   genre: "Horror",
-  rating: "8"
+  rating: "8",
 });
 const r2 = table.insert({
   name: "Jurassic Park",
   year: "1993",
   genre: "Science Fiction",
-  rating: "7"
+  rating: "7",
 });
 const r3 = table.insert({
   name: "Avatar",
   year: "2009",
   genre: "Adventure",
-  rating: "8"
+  rating: "8",
 });
 const r4 = table.insert({
   name: "Inception",
   year: "2010",
   genre: "Thriller",
-  rating: "9"
+  rating: "9",
 });
 
 function getAllMovies() {
