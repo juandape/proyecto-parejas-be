@@ -1,5 +1,5 @@
-# Make It Real - Proyecto parejas API
-## This is a solution to the *proyecto parejas API* project of the Make It Real course.
+# Make It Real - Movie API
+## This is a solution to the *proyecto en parejas API* project of the Make It Real course.
 
 ## The challenge
 Create an API using Express
