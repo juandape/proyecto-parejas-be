@@ -30,5 +30,5 @@ app.patch("/api/movies/:id", handleEditMovie);
 app.delete("/api/movies/:id", handleDeleteMovie);
 
 app.listen(port, () =>
-  console.log(`Server running at http://localhost:${port}!`)
+  console.log(`Server running at http://localhost:${port}`)
 );
